@@ -1,0 +1,13 @@
+footer {
+  margin-top: 36px;
+}
+
+.page-footer {
+  background-color: rgb(42, 171, 180);
+}
+
+@media only screen and (min-width: 720px) {
+  footer {
+    margin-top: 72px;
+  }
+}
